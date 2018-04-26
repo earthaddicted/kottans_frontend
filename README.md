@@ -1,6 +1,6 @@
 # kottans_frontend
 
-================================
+---
 
 #### :heavy_check_mark: Task 0 (get familiar with Git and GitHub)
 
@@ -14,5 +14,5 @@
 
 :paperclip: ![Screenshot](task_0/tryGithub_task_0_git.png)
 
-================================
+---
 
