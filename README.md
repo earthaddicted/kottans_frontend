@@ -1,10 +1,8 @@
 # kottans_frontend
 
-- [x] [Git and GitHub]()
-
-- [x] Linux CLI, and HTTP
-
-- [x] Git Collaboration
+- [x] [Git and GitHub](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-git-and-github)
+- [x] [Linux CLI, and HTTP](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-linux-cli-and-http)
+- [x] [Git Collaboration](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-git-collaboration)
 
 ## :heavy_check_mark: Git and GitHub
 
