@@ -1,5 +1,10 @@
 # kottans_frontend
 
+- [x] Git and GitHub
+
+- [x] Linux CLI, and HTTP
+
+- [x] Git Collaboration
 
 ## :heavy_check_mark: Git and GitHub
 
