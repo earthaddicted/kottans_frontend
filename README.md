@@ -1,6 +1,6 @@
 # kottans_frontend
 
-- [x] Git and GitHub
+- [x] [Git and GitHub]()
 
 - [x] Linux CLI, and HTTP
 
