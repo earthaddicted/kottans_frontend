@@ -44,4 +44,4 @@
 
 - it was good to practice all these basic html/css rules
 -
-- I gladly repeat basics because in daily life when you have monotonous tasks sometimes such basics just sleep out of your mind but I think it necessery to repeat them
+- I gladly repeat basics because in daily life when you have monotonous tasks sometimes such basics just sleep out of your mind that's why I think it necessery to repeat them
