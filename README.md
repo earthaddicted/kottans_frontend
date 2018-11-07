@@ -4,6 +4,8 @@
 - [x] [Linux CLI, and HTTP](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-linux-cli-and-http)
 - [x] [Git Collaboration](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-git-collaboration)
 
+- [x] [Git Collaboration](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-intro-to-html-and-css)
+
 ## :heavy_check_mark: Git and GitHub
 
 - Thanks to this course I learnt to make a pull request from other's repo
@@ -33,3 +35,13 @@
 - It was useful to refresh memories about git push/pull/merge commands and to practice forking of other repo
 - Before I never gave a thought that git pull is really the same as a combination of git fetch and git merge
 - For sure I will try to use what I've learned in these courses
+
+
+## :heavy_check_mark: Intro to HTML and CSS
+
+:paperclip: ![Screenshot](task_git_html_css_intro/IntrotoHTMLandCSS-Udacity.jpg)
+:paperclip: ![Screenshot](task_git_html_css_intro/HTMLAcademy_HTML_CSS.jpg)
+
+- it was good to practice all these basic html/css rules
+-
+- I gladly repeat basics because in daily life when you have monotonous tasks sometimes such basics just sleep out of your mind but I think it necessery to repeat them
