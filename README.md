@@ -4,7 +4,7 @@
 - [x] [Linux CLI, and HTTP](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-linux-cli-and-http)
 - [x] [Git Collaboration](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-git-collaboration)
 
-- [x] [Git Collaboration](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-intro-to-html-and-css)
+- [x] [Intro to HTML and CSS](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-intro-to-html-and-css)
 
 ## :heavy_check_mark: Git and GitHub
 
