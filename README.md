@@ -5,7 +5,7 @@
 - [x] [Git Collaboration](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-git-collaboration)
 
 - [x] [Intro to HTML and CSS](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-intro-to-html-and-css)
-- [x] [Responsive Web Design]()
+- [x] [Responsive Web Design](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-responsive-web-design)
 
 ## :heavy_check_mark: Git and GitHub
 
@@ -51,7 +51,7 @@
 ## :heavy_check_mark: Responsive Web Design
 
 :paperclip: ![Screenshot](task_responsive_web_design/flexboxfroggy.jpg)
-:paperclip: ![Screenshot](ResponsiveWebDesignFundamentals-Udacity.jpg)
+:paperclip: ![Screenshot](task_responsive_web_design/ResponsiveWebDesignFundamentals-Udacity.jpg)
 
 
 - it was good to learn deeper about responsive design, I learned it all by practice before and it was good to compare and check all what I knew already and what udemy teaches and learn it from another angle,
