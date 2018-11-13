@@ -5,6 +5,7 @@
 - [x] [Git Collaboration](https://github.com/earthaddicted/kottans_frontend/blob/master/README.md#heavy_check_mark-git-collaboration)
 
 - [x] [Intro to HTML and CSS](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-intro-to-html-and-css)
+- [x] [Responsive Web Design]()
 
 ## :heavy_check_mark: Git and GitHub
 
@@ -45,3 +46,14 @@
 - it was good to practice all these basic html/css rules
 -
 - I gladly repeat basics because in daily life when you have monotonous tasks sometimes such basics just sleep out of your mind that's why I think it is necessery to repeat them
+
+
+## :heavy_check_mark: Responsive Web Design
+
+:paperclip: ![Screenshot](task_responsive_web_design/flexboxfroggy.jpg)
+:paperclip: ![Screenshot](ResponsiveWebDesignFundamentals-Udacity.jpg)
+
+
+- it was good to learn deeper about responsive design, I learned it all by practice before and it was good to compare and check all what I knew already and what udemy teaches and learn it from another angle,
+also I found out another way to make responsible table
+- Before I used metatag for viewport but never really gave a thought about dip (device indeendent pixels) and how can they differ from hardware pixels and how much this metatag makes life easier
