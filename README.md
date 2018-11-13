@@ -56,4 +56,4 @@
 
 - it was good to learn deeper about responsive design, I learned it all by practice before and it was good to compare and check all what I knew already and what udemy teaches and learn it from another angle,
 also I found out another way to make responsible table
-- Before I used metatag for viewport but never really gave a thought about dip (device indeendent pixels) and how can they differ from hardware pixels and how much this metatag makes life easier
+- Before I used metatag for viewport but never really gave a thought about dip (device independent pixels) and how can they differ from hardware pixels and how much this metatag makes life easier
