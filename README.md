@@ -6,7 +6,7 @@
 
 - [x] [Intro to HTML and CSS](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-intro-to-html-and-css)
 - [x] [Responsive Web Design](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-responsive-web-design)
-- [x] [JS Basics](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-js_basics)
+- [x] [JS Basics](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-js-basics)
 
 ## :heavy_check_mark: Git and GitHub
 
