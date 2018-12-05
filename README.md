@@ -6,7 +6,7 @@
 
 - [x] [Intro to HTML and CSS](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-intro-to-html-and-css)
 - [x] [Responsive Web Design](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-responsive-web-design)
-- [x] [JS Basics]()
+- [x] [JS Basics](https://github.com/earthaddicted/kottans_frontend#heavy_check_mark-js_basics)
 
 ## :heavy_check_mark: Git and GitHub
 
@@ -62,4 +62,10 @@ also I found out another way to make responsible table
 
 
 ## :heavy_check_mark: JS Basics
+:paperclip: ![Screenshot](task_js_basics/IntrotoJavaScriptUdacity.jpg)
+:paperclip: ![Screenshot](task_js_basics/freeCodeCampIntermAlgorithms.jpg)
+
+
 - I read a lot of JS basics (books, materials on websites), but without a continuous practice can say that it is mostly useless thing because you forget it in a while, it is really cool to do practice tasks, for example, conditions in Udacity, I had big fun solving quizes :)
+- In Freecodecamp Intermediate Algorithms were really difficult to understand. Think it is a big jump from basics to such level. I can't say that I did it at once and without using hints and ready answers. This helped me to get to know about many new things but I think I need much time to get them so I definitely will come back to this topic not once and will read all given additional materials.
+_ I know that all is based on algorithms so I will try to understand them and use correctly.
